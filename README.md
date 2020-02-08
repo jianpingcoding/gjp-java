@@ -1,2 +1,2 @@
-# gjp-java
+# lang-java
 Gan Jianping Java sample
