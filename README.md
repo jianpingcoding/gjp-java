@@ -1,2 +1,3 @@
 # lang-java
-Gan Jianping Java sample
+
+Java practice
